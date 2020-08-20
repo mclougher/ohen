@@ -1,0 +1,927 @@
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Abdominal_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Abdominal_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Abdominal_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Abductor_Pollicis_Longus"/>
+		<NamedIndividual IRI="#userMuscle-Abductor_Pollicis_Longus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Abductor_Pollicis_Longus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Adductor_Group_of_the_Leg"/>
+		<NamedIndividual IRI="#userMuscle-Adductor_Group_of_the_Leg"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Adductor_Group_of_the_Leg"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Articular_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Articular_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Articular_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Biceps"/>
+		<NamedIndividual IRI="#userMuscle-Biceps"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Biceps"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Brachialis"/>
+		<NamedIndividual IRI="#userMuscle-Brachialis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Brachialis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Buccinator"/>
+		<NamedIndividual IRI="#userMuscle-Buccinator"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Buccinator"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Bulboglandular"/>
+		<NamedIndividual IRI="#userMuscle-Bulboglandular"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Bulboglandular"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Ciliary_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Ciliary_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Ciliary_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cleidobrachial"/>
+		<NamedIndividual IRI="#userMuscle-Cleidobrachial"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Cleidobrachial"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cleidocephalic"/>
+		<NamedIndividual IRI="#userMuscle-Cleidocephalic"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Cleidocephalic"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cleidooccipital"/>
+		<NamedIndividual IRI="#userMuscle-Cleidooccipital"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Cleidooccipital"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Constrictor_Vulvae"/>
+		<NamedIndividual IRI="#userMuscle-Constrictor_Vulvae"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Constrictor_Vulvae"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Coracobrachialis"/>
+		<NamedIndividual IRI="#userMuscle-Coracobrachialis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Coracobrachialis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cutaneous_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Cutaneous_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Cutaneous_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cutaneous_Trunci"/>
+		<NamedIndividual IRI="#userMuscle-Cutaneous_Trunci"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Cutaneous_Trunci"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Dartoic_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Dartoic_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Dartoic_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Deltoid"/>
+		<NamedIndividual IRI="#userMuscle-Deltoid"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Deltoid"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Depressor_Labii_Inferioris"/>
+		<NamedIndividual IRI="#userMuscle-Depressor_Labii_Inferioris"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Depressor_Labii_Inferioris"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Diaphragm"/>
+		<NamedIndividual IRI="#userMuscle-Diaphragm"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Diaphragm"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Distal_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Distal_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Distal_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Dorsal_Muscle_of_the_Back"/>
+		<NamedIndividual IRI="#userMuscle-Dorsal_Muscle_of_the_Back"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Dorsal_Muscle_of_the_Back"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Erector_Spinae"/>
+		<NamedIndividual IRI="#userMuscle-Erector_Spinae"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Erector_Spinae"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Extensor_Carpi_Radialis_Brevis"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Carpi_Radialis_Brevis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Carpi_Radialis_Brevis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Extensor_Carpi_Radialis_Longus"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Carpi_Radialis_Longus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Carpi_Radialis_Longus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Extensor_Carpi_Ulnaris"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Carpi_Ulnaris"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Carpi_Ulnaris"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Extensor_Digitorum_Communis"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Digitorum_Communis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Digitorum_Communis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Extensor_Digitorum_Lateralis"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Digitorum_Lateralis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Digitorum_Lateralis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Extensor_Digitorum_Longus"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Digitorum_Longus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Extensor_Digitorum_Longus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Flexor_Carpi_Radialis"/>
+		<NamedIndividual IRI="#userMuscle-Flexor_Carpi_Radialis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Flexor_Carpi_Radialis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Flexor_Carpi_Ulnaris"/>
+		<NamedIndividual IRI="#userMuscle-Flexor_Carpi_Ulnaris"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Flexor_Carpi_Ulnaris"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Flexor_Digitorum_Longus"/>
+		<NamedIndividual IRI="#userMuscle-Flexor_Digitorum_Longus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Flexor_Digitorum_Longus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Flexor_Digitorum_Profundus"/>
+		<NamedIndividual IRI="#userMuscle-Flexor_Digitorum_Profundus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Flexor_Digitorum_Profundus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Flexor_Hallucis_Longus"/>
+		<NamedIndividual IRI="#userMuscle-Flexor_Hallucis_Longus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Flexor_Hallucis_Longus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Foot_Interosseous_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Foot_Interosseous_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Foot_Interosseous_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Gastrocnemius_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Gastrocnemius_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Gastrocnemius_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Gastrointestinal_Sphincter"/>
+		<NamedIndividual IRI="#userMuscle-Gastrointestinal_Sphincter"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Gastrointestinal_Sphincter"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Genioglossus"/>
+		<NamedIndividual IRI="#userMuscle-Genioglossus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Genioglossus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Geniohyoid"/>
+		<NamedIndividual IRI="#userMuscle-Geniohyoid"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Geniohyoid"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Gluteal_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Gluteal_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Gluteal_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Gracilis"/>
+		<NamedIndividual IRI="#userMuscle-Gracilis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Gracilis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Hamstring"/>
+		<NamedIndividual IRI="#userMuscle-Hamstring"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Hamstring"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Hand_Interosseous_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Hand_Interosseous_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Hand_Interosseous_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Head_and_Neck_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Head_and_Neck_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Head_and_Neck_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Iliocostal_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Iliocostal_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Iliocostal_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Iliopsoas_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Iliopsoas_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Iliopsoas_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Iliothoracic"/>
+		<NamedIndividual IRI="#userMuscle-Iliothoracic"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Iliothoracic"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Intercostal_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Intercostal_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Intercostal_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Ischiocavernosus"/>
+		<NamedIndividual IRI="#userMuscle-Ischiocavernosus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Ischiocavernosus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Levator_Nasolabialis"/>
+		<NamedIndividual IRI="#userMuscle-Levator_Nasolabialis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Levator_Nasolabialis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Longissimus_Lumborum"/>
+		<NamedIndividual IRI="#userMuscle-Longissimus_Lumborum"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Longissimus_Lumborum"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Longissimus_Thoracis"/>
+		<NamedIndividual IRI="#userMuscle-Longissimus_Thoracis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Longissimus_Thoracis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Longus_Capitis"/>
+		<NamedIndividual IRI="#userMuscle-Longus_Capitis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Longus_Capitis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Longus_Colli"/>
+		<NamedIndividual IRI="#userMuscle-Longus_Colli"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Longus_Colli"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Muscle_of_the_Coccyx"/>
+		<NamedIndividual IRI="#userMuscle-Muscle_of_the_Coccyx"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Muscle_of_the_Coccyx"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Muscularis_Propria"/>
+		<NamedIndividual IRI="#userMuscle-Muscularis_Propria"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Muscularis_Propria"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Musculus_Latissimus_Dorsi"/>
+		<NamedIndividual IRI="#userMuscle-Musculus_Latissimus_Dorsi"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Musculus_Latissimus_Dorsi"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Mylohyoid"/>
+		<NamedIndividual IRI="#userMuscle-Mylohyoid"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Mylohyoid"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Obturator_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Obturator_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Obturator_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Omohyoid"/>
+		<NamedIndividual IRI="#userMuscle-Omohyoid"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Omohyoid"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Omotransverse"/>
+		<NamedIndividual IRI="#userMuscle-Omotransverse"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Omotransverse"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Orbicularis_Oculi"/>
+		<NamedIndividual IRI="#userMuscle-Orbicularis_Oculi"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Orbicularis_Oculi"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Palmar_Hand_Interosseus_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Palmar_Hand_Interosseus_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Palmar_Hand_Interosseus_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Papillary_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Papillary_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Papillary_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Parotidoauricular"/>
+		<NamedIndividual IRI="#userMuscle-Parotidoauricular"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Parotidoauricular"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Pectineus"/>
+		<NamedIndividual IRI="#userMuscle-Pectineus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Pectineus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Pectoralis_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Pectoralis_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Pectoralis_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Perineal_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Perineal_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Perineal_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Peroneus_Longus"/>
+		<NamedIndividual IRI="#userMuscle-Peroneus_Longus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Peroneus_Longus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Popliteus_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Popliteus_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Popliteus_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Proximal_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Proximal_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Proximal_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Quadriceps_Muscle_of_the_Thigh"/>
+		<NamedIndividual IRI="#userMuscle-Quadriceps_Muscle_of_the_Thigh"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Quadriceps_Muscle_of_the_Thigh"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sartorius_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Sartorius_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Sartorius_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Scalenus_Dorsalis"/>
+		<NamedIndividual IRI="#userMuscle-Scalenus_Dorsalis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Scalenus_Dorsalis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Scalenus_Medius"/>
+		<NamedIndividual IRI="#userMuscle-Scalenus_Medius"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Scalenus_Medius"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Semimembranosus"/>
+		<NamedIndividual IRI="#userMuscle-Semimembranosus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Semimembranosus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Semispinalis_Capitis"/>
+		<NamedIndividual IRI="#userMuscle-Semispinalis_Capitis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Semispinalis_Capitis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Semispinalis_Cervicis"/>
+		<NamedIndividual IRI="#userMuscle-Semispinalis_Cervicis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Semispinalis_Cervicis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Semispinalis_Thoracis"/>
+		<NamedIndividual IRI="#userMuscle-Semispinalis_Thoracis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Semispinalis_Thoracis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Semitendinosus"/>
+		<NamedIndividual IRI="#userMuscle-Semitendinosus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Semitendinosus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Serratus_Dorsalis_Caudalis"/>
+		<NamedIndividual IRI="#userMuscle-Serratus_Dorsalis_Caudalis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Serratus_Dorsalis_Caudalis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Serratus_Dorsalis_Cranialis"/>
+		<NamedIndividual IRI="#userMuscle-Serratus_Dorsalis_Cranialis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Serratus_Dorsalis_Cranialis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Serratus_Magnus"/>
+		<NamedIndividual IRI="#userMuscle-Serratus_Magnus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Serratus_Magnus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Serratus_Ventralis"/>
+		<NamedIndividual IRI="#userMuscle-Serratus_Ventralis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Serratus_Ventralis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Soleus"/>
+		<NamedIndividual IRI="#userMuscle-Soleus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Soleus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sphincter"/>
+		<NamedIndividual IRI="#userMuscle-Sphincter"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Sphincter"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sphincter_Colli_Superficialis"/>
+		<NamedIndividual IRI="#userMuscle-Sphincter_Colli_Superficialis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Sphincter_Colli_Superficialis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sphincter_Pupillae_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Sphincter_Pupillae_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Sphincter_Pupillae_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Spinalis_Thoracis"/>
+		<NamedIndividual IRI="#userMuscle-Spinalis_Thoracis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Spinalis_Thoracis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sternohyoid"/>
+		<NamedIndividual IRI="#userMuscle-Sternohyoid"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Sternohyoid"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sternooccipital"/>
+		<NamedIndividual IRI="#userMuscle-Sternooccipital"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Sternooccipital"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Sternothyroid"/>
+		<NamedIndividual IRI="#userMuscle-Sternothyroid"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Sternothyroid"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Styloglossus"/>
+		<NamedIndividual IRI="#userMuscle-Styloglossus"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Styloglossus"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Subclavius"/>
+		<NamedIndividual IRI="#userMuscle-Subclavius"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Subclavius"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Tensor_Fasciae_Lata"/>
+		<NamedIndividual IRI="#userMuscle-Tensor_Fasciae_Lata"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Tensor_Fasciae_Lata"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Teres_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Teres_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Teres_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Tibialis"/>
+		<NamedIndividual IRI="#userMuscle-Tibialis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Tibialis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Transversalis"/>
+		<NamedIndividual IRI="#userMuscle-Transversalis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Transversalis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Transversus_Thoracis"/>
+		<NamedIndividual IRI="#userMuscle-Transversus_Thoracis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Transversus_Thoracis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Trapezius_Muscle"/>
+		<NamedIndividual IRI="#userMuscle-Trapezius_Muscle"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Trapezius_Muscle"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Triceps"/>
+		<NamedIndividual IRI="#userMuscle-Triceps"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Triceps"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Urethralis"/>
+		<NamedIndividual IRI="#userMuscle-Urethralis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Urethralis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
+	<ClassAssertion>
+		<Class IRI="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Vastus_Lateralis"/>
+		<NamedIndividual IRI="#userMuscle-Vastus_Lateralis"/>
+	</ClassAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="isInjured"/>
+		<NamedIndividual IRI="#userMuscle-Vastus_Lateralis"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">false</Literal>
+	</DataPropertyAssertion>
