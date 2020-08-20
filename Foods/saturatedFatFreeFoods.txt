@@ -1,0 +1,3240 @@
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-beer-light"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-beer-light-lowcarb"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-beer-regular-all"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-cremedementhe-72proof"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-distilled-all-gin-rum-vodka-whiskey-80proof"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-distilled-rum-80proof"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-rice-sake-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-wine-cooking"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-wine-dessert-sweet"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-wine-light"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-wine-table-all"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-wine-table-red"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverage-wine-table-white"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverages-beer-light-higheralcohol"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverages-Wine-rose"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alcoholicbeverages-maltbeer-hardlemonade"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Alfalfaseeds-sprouted-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Applejuice-cannedorbottled-unsweetened-withaddedascorbicacid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Applejuice-cannedorbottled-unsweetened-withaddedascorbicacid-calcium-andpotassium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Applejuice-cannedorbottled-unsweetened-withoutaddedascorbicacid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apples-canned-sweetened-sliced-drained-heated"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apples-dehydrated-lowmoisture--sulfured-uncooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apples-dried-sulfured-stewed-withoutaddedsugar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apples-dried-sulfured-uncooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apples-raw-withskin"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apples-raw-withoutskin"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apples-raw-withoutskin-cooked-boiled"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apples-raw-withoutskin-cooked-microwave"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Applesauce-canned-sweetened-withoutsalt-includesUSDAcommodity-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Applesauce-canned-unsweetened-withoutaddedascorbicacid-includesUSDAcommodity-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apricotnectar-canned-withoutaddedascorbicacid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apricots-canned-heavysyruppack-withskin-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apricots-canned-heavysyrup-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apricots-canned-juicepack-withskin-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apricots-canned-lightsyruppack-withskin-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apricots-canned-waterpack-withskin-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apricots-dried-sulfured-stewed-withoutaddedsugar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apricots-dried-sulfured-uncooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Apricots-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Artichokes--globeorfrench--cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Arugula-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Asparagus-cooked-boiled-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Asparagus-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Asparagus-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-GERBER-Bananawithorangemedley"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-apple-bananajuice"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-apples-dices-toddler"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-bananaappledessert-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-banananotapioca-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-bananawithmixedberries-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-beverage-GERBERGRADUATEFRUITSPLASHERS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-carrots-toddler"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-cereal-mixed-withapplesauceandbananas-junior-fortified"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-cereal-mixed-withapplesauceandbananas-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-cherrycobbler-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-cornandsweetpotatoes-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-dessert-cherryvanillapudding-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-dessert-cherryvanillapudding-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-dessert-dutchapple-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-dessert-fruitdessert-withoutascorbicacid-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-dessert-fruitdessert-withoutascorbicacid-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-dessert-fruitpudding-pineapple-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-dessert-peachcobbler-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-dessert-peachcobbler-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-dinner-mixedvegetable-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruitandvegetable-appleandsweetpotato"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruitdessert-mangowithtapioca"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruitsupremedessert"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-appleandblueberry-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-appleandblueberry-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-appleandraspberry-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-appleandraspberry-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-applesauceandapricots-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-applesauceandapricots-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-applesauceandcherries-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-applesauceandcherries-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-applesaucewithbanana-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-applesauce-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-applesauce-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-apricotwithtapioca-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-apricotwithtapioca-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-bananasandpineapplewithtapioca-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-bananasandpineapplewithtapioca-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-bananaswithtapioca-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-bananaswithtapioca-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-peaches-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-peaches-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-pearsandpineapple-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-pearsandpineapple-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-pears-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-pears-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-plumswithtapioca-withoutascorbicacid-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-plumswithtapioca-withoutascorbicacid-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-pruneswithtapioca-withoutascorbicacid-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-fruit-tuttifrutti-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-grapejuice-nosugar-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-greenbeans-dices-toddler"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juicetreats-fruitmedley-toddler"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-apple"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-apple-cherry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-appleandgrape"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-appleandpeach"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-appleandprune"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-apple-withcalcium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-apple-sweetpotato"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-fruitpunch-withcalcium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-mixedfruit"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-orange"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-orangeandappleandbanana"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-orange-carrot"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-juice-pear"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-peaches-dices-toddler"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-pears-dices-toddler"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-peasandbrownrice"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-plums-bananasandrice-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-potatoes-toddler"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-prunes-withoutvitaminc-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-tropicalfruitmedley"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetable-butternutsquashandcorn"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-beets-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-carrots-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-carrots-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-corn-creamed-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-corn-creamed-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-gardenvegetable-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-greenbeans-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-greenbeans-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-mixvegetablesjunior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-peas-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-squash-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-squash-strained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-sweetpotatoesstrained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfood-vegetables-sweetpotatoes-junior"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Babyfoods-water-bottled-GERBER-withoutaddedfluoride."/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Bagels-wheat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Balsam-pear-bittergourd--leafytips-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Balsam-pear-bittergourd--pods-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Bambooshoots-canned-drainedsolids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Bambooshoots-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Barley-pearled-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Basil-fresh"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-baked-canned-plainorvegetarian"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-blackturtle-matureseeds-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-blackturtle-matureseeds-cooked-boiled-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-black-matureseeds-canned-lowsodium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-kidney-alltypes-matureseeds-cooked-boiled-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-kidney-red-matureseeds-cooked-boiled-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-snap-green-canned-regularpack-drainedsolids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-snap-green-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-snap-green-frozen-cooked-boiled-drainedwithoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-snap-green-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-snap-yellow-canned-regularpack-drainedsolids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-snap-yellow-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-snap-yellow-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beans-white-matureseeds-cooked-boiled-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beetgreens-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beetgreens-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beets-canned-drainedsolids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beets-canned-nosaltadded-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beets-cooked-boiled-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beets-pickled-canned-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beets-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Energydrink-Citrus"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages--PEPSICOQUAKER-GatoradeG2-lowcalorie"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-ABBOTT-EASsoyproteinpowder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Acaiberrydrink-fortified"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Amber-hardcider"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Applejuicedrink-light-fortifiedwithvitaminC"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Beer-higheralcohol"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-COCA-COLA-POWERADE-lemon-limeflavored-ready-to-drink"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Carbonatedbeverage-SPRITE-lemon-lime-withoutcaffeine"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Carbonatedbeverage-clubsoda"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Carbonatedbeverage-lowcalorie-colaorpepper-type-withaspartame-containscaffeine"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Carbonatedbeverage-lowcalorie-colaorpepper-type-withaspartame-withoutcaffeine"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Carbonatedbeverage-lowcalorie-otherthancolaorpepper-withoutcaffeine"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Carbonatedbeverage-lowcalorie-otherthancolaorpepper-withaspartame-containscaffeine"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Carbonatedbeverage-reducedsugar-cola-containscaffeineandsweeteners"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Carbonatedbeverage-rootbeer"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Carbonatedbeverage-tonicwater"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-ChocolateAlmondmilk-unsweetened-shelf-stable-fortifiedwithvitaminD2andE"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Cocktailmix-non-alcoholic-concentrated-frozen"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Coconutwater-ready-to-drink-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-EnergyDrinkwithcarbonatedwaterandhighfructosecornsyrup"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-EnergyDrink-Monster-fortifiedwithvitaminsC-B2-B3-B6-B12"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-EnergyDrink-sugarfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Energydrink-AMP"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Energydrink-AMP-sugarfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Energydrink-FULLTHROTTLE"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Energydrink-REDBULL"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Energydrink-REDBULL-sugarfree-withaddedcaffeine-niacin-pantothenicacid-vitaminsB6andB12"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Energydrink-ROCKSTAR"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Energydrink-ROCKSTAR-sugarfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Energydrink-VAULTZero-sugar-free-citrusflavor"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Energydrink-VAULT-citrusflavor"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Fruitflavoreddrinkcontaininglessthan3percentfruitjuice-withhighvitaminC"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Fruitflavoreddrink-lessthan3percentjuice-notfortifiedwithvitaminC"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Fruitpunchdrink-withaddednutrients-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Lemonadefruitjuicedrinklight-fortifiedwithvitaminEandC"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-MONSTERenergydrink-lowcarb"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Mixedvegetableandfruitjuicedrink-withaddednutrients"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-OCEANSPRAY-Cran-Energy-CranberryEnergyJuiceDrink"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-OVALTINE-chocolatemaltpowder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Orangejuice-light-Nopulp"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-PEPSICOQUAKER-Gatorade-GperformanceO2-ready-to-drink."/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-POWERADE-Zero-MixedBerry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-PoweradeZeroIon4-calorie-free-assortedflavors"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-PropelZero-fruit-flavored-non-carbonated"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-THECOCA-COLACOMPANY-NOSZero-energydrink-sugar-freewithguarana-fortifiedwithvitaminsB6andB12"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-THECOCA-COLACOMPANY-NOSenergydrink-Original-grape-loadedcherry-chargedcitrus-fortifiedwithvitaminsB6andB12"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-TheCOCA-COLAcompany-GlaceauVitaminWater-ReviveFruitPunch-fortifiedwithvitaminsC-B3-B5--B6-B12-potas-Mg-CaMS8/6/15"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-TheCOCA-COLAcompany-Hi-CFlashin'FruitPunch"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-TheCOCA-COLAcompany-MinuteMaid-Lemonade"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-TropicalPunch-ready-to-drink"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Waterwithaddedvitaminsandminerals-bottles-sweetened-assortedfruitflavors"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Whiskeysourmix-bottled"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-Wine-non-alcoholic"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-almondmilk-chocolate-ready-to-drink"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-almondmilk-sweetened-vanillaflavor-ready-to-drink"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-almondmilk-unsweetened-shelfstable"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-aloeverajuicedrink-fortifiedwithVitaminC"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-carbonatedbeverage-cola-withoutcaffeine"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-carbonatedbeverage-gingerale"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-carbonated-cola-regular"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-coffeesubstitute-cerealgrainbeverage-preparedwithwater"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-coffee-brewed-espresso-restaurant-prepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-coffee-brewed-espresso-restaurant-prepared-decaffeinated"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-coffee-brewed-preparedwithtapwater-decaffeinated"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-coffee-readytodrink-milkbased-sweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-fruitjuicedrink-reducedsugar-withvitaminEadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-nutritionalshakemix-highprotein-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-ricemilk-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-Oolong-brewed"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-black-brewed-preparedwithtapwater"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-black-brewed-preparedwithtapwater-decaffeinated"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-black-readytodrink"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-black-readytodrink-decaffeinated"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-black-readytodrink-decaffeinated-diet"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-black-ready-to-drink-lemon-diet"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-black-ready-to-drink-lemon-sweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-green-brewed-decaffeinated"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-green-brewed-regular"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-green-readytodrink-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-green-ready-to-drink-diet"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-green-ready-to-drink-sweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-herb-brewed-chamomile"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-herb-otherthanchamomile-brewed"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-hibiscus-brewed"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-decaffeinated-lemon-diet"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-decaffeinated-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-lemon-diet"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-lemon-sweetened-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-lemon-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-unsweetened-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-tea-ready-to-drink-lemon-diet"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-vegetableandfruitjuiceblend-100percentjuice-withaddedvitaminsA-C-E"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-water-bottled-yumberry-pomegranatewithanti-oxidants-zerocalories"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Beverages-yellowgreencoloredcitrussoftdrinkwithcaffeine"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Blackberries-canned-heavysyrup-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Blackberries-frozen-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Blackberries-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Blackberryjuice-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Blueberries-canned-heavysyrup-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Blueberries-canned-lightsyrup-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Blueberries-frozen-sweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Blueberries-frozen-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Blueberries-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Boysenberries-frozen-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Bread-cinnamon"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Bread-frenchorvienna-wholewheat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Bread-italian"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Bread-potato"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Bread-wheat-sprouted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Breadfruit-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Broadbeans-favabeans--matureseeds-cooked-boiled-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Broccoliraab-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Broccoliraab-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Broccoli-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Broccoli-frozen-chopped-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Broccoli-frozen-chopped-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Broccoli-frozen-spears-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Broccoli-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Brusselssprouts-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Brusselssprouts-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Bulgur-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Burdockroot-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Burdockroot-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-chinese-pak-choi--cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-chinese-pak-choi--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-chinese-pe-tsai--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-japanesestyle-fresh-pickled"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-kimchi"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-mustard-salted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-red-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-red-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cabbage-savoy-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cake-angelfood-drymix-prepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Candiedfruit"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Candies-Tamarind"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Candies-fondant-prepared-from-recipe"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Candies-fruitsnacks-withhighvitaminC"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Candies-gumdrops-nosugarorlowcalorie-sorbitol-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Candies-gumdrops-starchjellypieces"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Candies-hard"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Candies-hard-dieteticorlowcalorie-sorbitol-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Candies-jellybeans"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Candies-marshmallows"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Carambola--starfruit--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Carbonatedbeverage-chocolate-flavoredsoda"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Carbonatedbeverage-creamsoda"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Carobflour"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Carrotjuice-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Carrots-canned-nosaltadded-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Carrots-canned-regularpack-drainedsolids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Carrots-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Carrots-frozen-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Carrots-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cassava-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Catsup"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Catsup-lowsodium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cauliflower-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cauliflower-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cauliflower-frozen-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cauliflower-green-cooked-nosaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cauliflower-green-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Celeriac-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Celery-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Celery-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-BARBARA'SPUFFINS-original"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG'S-ReducedSugarFrostedFlakesCereal"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SFROSTEDRICEKRISPIES"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-MALT-O-MEAL-CORNBURSTS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Chard-swiss-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Chard-swiss-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Chayote-fruit-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Chayote-fruit-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cheese-American-nonfatorfatfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cheese-Swiss-nonfatorfatfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cheese-cheddar-nonfatorfatfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cheese-mozzarella-nonfat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cherries-sour-red-canned-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cherries-sour-red-canned-waterpack-solidsandliquids-includesUSDAcommodityredtartcherries-canned-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cherries-sour-red-frozen-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cherries-sour-red-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cherries-sweet-canned-juicepack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cherries-sweet-canned-lightsyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cherries-sweet-canned-pitted-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cherries-sweet-canned-pitted-heavysyrup-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cherries-sweet-canned-waterpack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cherries-sweet-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Chewinggum"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Chewinggum-sugarless"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Chicorygreens-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Citrusfruitjuicedrink-frozenconcentrate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Coffee-brewed-preparedwithtapwater"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Collards-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Collards-frozen-chopped-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Collards-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cookies-grahamcrackers-plainorhoney-lowfat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Coriander-cilantro-leaves-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Corn-sweet-white-canned-creamstyle-regularpack"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Corn-sweet-white-frozen-kernelscutoffcob-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Corn-sweet-yellow-canned-creamstyle-regularpack"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Corn-sweet-yellow-canned-nosaltadded-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Corn-sweet-yellow-canned-vacuumpack-regularpack"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cornstarch"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Couscous-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cowpeas-blackeyes--immatureseeds-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Crackers-saltines-wholewheat-includesmulti-grain-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Crackers-waterbiscuits"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cranberries-dried-sweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cranberries-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cranberryjuiceblend-100percentjuice-bottled-withaddedvitaminCandcalcium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cranberryjuicecocktail-bottled"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cranberryjuice-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cranberrysauce-canned-sweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cranberry-applejuicedrink-lowcalorie-withvitaminCadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cress-garden-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cress-garden-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cucumber-peeled-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Cucumber-withpeel-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Currants-redandwhite-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Currants-zante-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Dates-degletnoor"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Eggsubstitute-liquidorfrozen-fatfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Egg-white-raw-fresh"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Eggplant-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Eggplant-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Endive-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Escarole-cooked-boiled-drained-nosaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fastfoods-strawberrybananasmoothiemadewithiceandlow-fatyogurt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fatfreeicecream-nosugaradded-flavorsotherthanchocolate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fennel-bulb-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Figs-canned-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Figs-canned-lightsyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Figs-canned-waterpack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Figs-dried-stewed"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Figs-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fish-cod-Pacific-raw-mayhavebeenpreviouslyfrozen-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fish-haddock-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fluidreplacement-electrolytesolution-includePEDIALYTE-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Froglegs-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Frozennovelties-fruitandjuicebars"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Frozennovelties-icetype-lime"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Frozennovelties-icetype-pop"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Frozennovelties-icetype-pop-withlowcaloriesweetener"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Frozennovelties-juicetype-orange"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitbutters-apple"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitcocktail--peachandpineappleandpearandgrapeandcherry--canned-heavysyrup-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitcocktail--peachandpineappleandpearandgrapeandcherry--canned-juicepack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitcocktail--peachandpineappleandpearandgrapeandcherry--canned-lightsyrup-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitcocktail--peachandpineappleandpearandgrapeandcherry--canned-waterpack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitcocktail-canned-heavysyrup-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitjuicedrink-greaterthan3percentfruitjuice-highvitaminCandaddedthiamin"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitjuicedrink-greaterthan3percentjuice-highvitaminC"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitjuicesmoothie-NAKEDJUICE-GREENMACHINE"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitjuicesmoothie-NAKEDJUICE-strawberrybanana"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruitsyrup"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruit-flavoreddrink-drypowderedmix-lowcalorie-withaspartame"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Fruit-flavoreddrink-powder-withhighvitaminCwithotheraddedvitamins-lowcalorie"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Garlic-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Gelatindesserts-drymix"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Gelatindesserts-drymix-preparedwithwater"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Gelatindesserts-drymix-reducedcalorie-withaspartame"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Gelatindesserts-drymix-reducedcalorie-withaspartame-preparedwithwater"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Gelatins-drypowder-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Gingerroot-pickled-canned-withartificialsweetener"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapejuice-cannedorbottled-unsweetened-withaddedascorbicacid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapejuice-cannedorbottled-unsweetened-withaddedascorbicacidandcalcium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapejuice-cannedorbottled-unsweetened-withoutaddedascorbicacid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapefruitjuice-pinkorred-withaddedcalcium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapefruitjuice-white-cannedorbottled-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapefruitjuice-white-frozenconcentrate-unsweetened-undiluted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapefruitjuice-white-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapefruit-raw-pinkandredandwhite-allareas"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapefruit-sections-canned-juicepack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapefruit-sections-canned-lightsyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapefruit-sections-canned-waterpack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapes-canned-thompsonseedless-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapes-canned-thompsonseedless-waterpack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Grapes-redorgreen-Europeantype-suchasThompsonseedless--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Guanabananectar-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Guavanectar-withsucralose-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Guavasauce-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Heartsofpalm-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Honey"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Horseradish-prepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Icecreams-vanilla-fatfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Jamsandpreserves"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Jams-preserves-marmalade-reducedsugar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Jams-preserves-marmalades-sweetenedwithfruitjuice"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Jellies"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Jellies-nosugar-withsodiumsaccharin--anyflavors"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Jerusalem-artichokes-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Juice-appleandgrapeblend-withaddedascorbicacid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Kale-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Kale-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Kale-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Kiwifruit-green-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Kohlrabi-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Kohlrabi-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lambsquarters-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Leaveningagents-bakingpowder-double-acting-sodiumaluminumsulfate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Leaveningagents-bakingpowder-double-acting-straightphosphate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Leaveningagents-bakingsoda"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Leaveningagents-creamoftartar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Leeks--bulbandlowerleaf-portion--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lemonjuicefromconcentrate-cannedorbottled"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lemonjuice-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lemonpeel-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lemonade-frozenconcentrate-white"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lemons-raw-withoutpeel"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lentils-matureseeds-cooked-boiled-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lettuce-butterhead-includesbostonandbibbtypes--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lettuce-cosorromaine-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lettuce-greenleaf-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lettuce-iceberg-includescrispheadtypes--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Limabeans-immatureseeds-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Limabeans-immatureseeds-frozen-baby-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Limabeans-immatureseeds-frozen-fordhook-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Limabeans-large-matureseeds-cooked-boiled-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Limejuice-cannedorbottled-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Limejuice-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Limes-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Litchis-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Loganberries-frozen"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Lotusroot-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Macaroni-vegetable-enriched-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Maltbeverage-includesnon-alcoholicbeer"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mangonectar-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mangos-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Maraschinocherries-canned-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Marmalade-orange"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Melons-cantaloupe-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Melons-casaba-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Melons-honeydew-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Milk-chocolate-fatfree-withaddedvitaminAandvitaminD"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Milk-nonfat-fluid-withaddedvitaminAandvitaminD-fatfreeorskim-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Milk-nonfat-fluid-withoutaddedvitaminAandvitaminD-fatfreeorskim-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Molasses"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mollusks-clam-mixedspecies-canned-liquid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mulberries-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mungbeans-matureseeds-sprouted-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mungbeans-matureseeds-sprouted-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mushrooms-canned-drainedsolids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mushrooms-shiitake-cooked-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mushrooms-white-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mushrooms-white-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mustardgreens-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mustardgreens-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Mustardgreens-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Nectarines-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Noodles-chinese-cellophaneorlongrice-mungbeans--dehydrated"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Nopales-cooked-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Nopales-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Okra-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Okra-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Okra-frozen-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Okra-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Onions-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Onions-dehydratedflakes"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Onions-frozen-chopped-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Onions-frozen-whole-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Onions-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Onions-springorscallions-includestopsandbulb--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Onions-younggreen-topsonly"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#OrangePineappleJuiceBlend"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Orangebreakfastdrink-ready-to-drink-withaddednutrients"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Orangejuice-canned-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Orangejuice-chilled-includesfromconcentrate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Orangejuice-chilled-includesfromconcentrate-withaddedcalcium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Orangejuice-chilled-includesfromconcentrate-withaddedcalciumandvitaminD"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Orangejuice-frozenconcentrate-unsweetened-dilutedwith3volumewater"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Orangejuice-frozenconcentrate-unsweetened-undiluted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Orangejuice-frozenconcentrate-unsweetened-undiluted-withaddedcalcium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Orangejuice-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Orange-flavordrink-breakfasttype-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Oranges-raw-allcommercialvarieties"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pancakes-wholewheat-drymix-incomplete"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Papayanectar-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Papayas-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Parsnips-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Passion-fruitjuice-purple-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Passion-fruit--granadilla--purple-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peachnectar-canned-withoutaddedascorbicacid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peaches-canned-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peaches-canned-heavysyrup-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peaches-canned-juicepack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peaches-canned-lightsyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peaches-canned-waterpack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peaches-dried-sulfured-stewed-withoutaddedsugar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peaches-dried-sulfured-uncooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peaches-frozen-sliced-sweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peaches-spiced-canned-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peaches-yellow-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peanutflour-defatted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pearnectar-canned-withoutaddedascorbicacid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pears-asian-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pears-canned-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pears-canned-heavysyrup-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pears-canned-juicepack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pears-canned-lightsyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pears-canned-waterpack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pears-dried-sulfured-stewed-withoutaddedsugar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pears-dried-sulfured-uncooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pears-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peasandcarrots-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peasandonions-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peas-edible-podded-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peas-edible-podded-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peas-edible-podded-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peas-green-canned-nosaltadded-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peas-green-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peas-green-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peas-green-frozen-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peas-green-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peas-split-matureseeds-cooked-boiled-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pepper-banana-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-hotchili-green-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-hotchili-red-canned-excludingseeds-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-hotchili-red-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-hotpickled-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-jalapeno-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-serrano-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-sweet-green-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-sweet-green-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-sweet-red-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-sweet-red-frozen-chopped-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Peppers-sweet-red-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Persimmons-japanese-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Picklerelish-sweet"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pickles-cucumber-dillorkosherdill"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pickles-cucumber-sour"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pickles-cucumber-sour-lowsodium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pickles-cucumber-sweet-includesbreadandbutterpickles-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pickles-cucumber-sweet-lowsodium-includesbreadandbutterpickles-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Piefillings-blueberry-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pimento-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pineapplejuice-cannedorbottled-unsweetened-withaddedascorbicacid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pineapplejuice-cannedorbottled-unsweetened-withoutaddedascorbicacid"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pineapple-canned-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pineapple-canned-juicepack-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pineapple-canned-juicepack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pineapple-canned-lightsyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pineapple-canned-waterpack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pineapple-frozen-chunks-sweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pineapple-raw-allvarieties"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Plantains-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Plums-canned-heavysyrup-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Plums-canned-purple-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Plums-canned-purple-juicepack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Plums-canned-purple-lightsyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Plums-canned-purple-waterpack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Plums-dried-prunes--stewed-withoutaddedsugar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Plums-dried-prunes--uncooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Plums-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Poi"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pokeberryshoots--poke--cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pomegranatejuice-bottled"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Potatoflour"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Potatoes-baked-fleshandskin-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Potatoes-baked-flesh-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Potatoes-baked-skin-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Potatoes-boiled-cookedinskin-flesh-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Potatoes-boiled-cookedwithoutskin-flesh-withsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Potatoes-boiled-cookedwithoutskin-flesh-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Potatoes-canned-drainedsolids-nosaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Potatoes-fleshandskin-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Prunejuice-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Puddings-allflavorsexceptchocolate-lowcalorie-instant-drymix"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Puddings-allflavorsexceptchocolate-lowcalorie-regular-drymix"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Puddings-chocolate-ready-to-eat-fatfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Puddings-vanilla-drymix-regular"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Puddings-vanilla-ready-to-eat-fatfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pumpkinflowers-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pumpkin-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Pumpkin-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Radicchio-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Radishes-hawaiianstyle-pickled"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Radishes-oriental-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Radishes-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Raisins-seedless"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Raspberries-canned-red-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Raspberries-frozen-red-sweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Raspberries-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Refriedbeans-canned-fat-free"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Rhubarb-frozen-cooked-withsugar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Rhubarb-frozen-uncooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Rhubarb-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#RiceandWheatcerealbar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Ricecrackers"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Ricemix-whiteandwild-flavored-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Ricenoodles-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Rice-white-glutinous-unenriched-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Rice-white-long-grain-regular-cooked-enriched-withsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Rice-white-long-grain-regular-enriched-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Rice-white-long-grain-regular-unenriched-cookedwithoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Rutabagas-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Rutabagas-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Saladdressing-KRAFTMayoFatFreeMayonnaiseDressing"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Saladdressing-caesar-fat-free"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Saladdressing-frenchdressing-fat-free"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Salsify-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Salt-table"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-barbecue"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-cocktail-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-duck-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-fish-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-oyster-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-peppers-hot-chili-maturered-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-salsa-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-salsa-verde-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-steak-tomatobased"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-sweetandsour-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-teriyaki-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-teriyaki-ready-to-serve-reducedsodium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-tomatochilisauce-bottled-withsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauce-worcestershire"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sauerkraut-canned-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Seaweed-agar-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Seaweed-agar-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Seaweed-irishmoss-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Seaweed-laver-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-beefbrothorbouillon-powder-preparedwithwater"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-beefbroth-less/reducedsodium-readytoserve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-chickenbrothorbouillon-dry-preparedwithwater"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-chickenbroth-less/reducedsodium-readytoserve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-chickenbroth-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-chunkyvegetable-canned-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-onion-dry-mix-preparedwithwater"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-ramennoodle-dry-anyflavor-reducedfat-reducedsodium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-stock-beef-home-prepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-tomato-canned-preparedwithequalvolumewater-commercial"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-vegetablebroth-readytoserve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soup-wonton-Chineserestaurant"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sourcream-fatfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soysaucemadefromhydrolyzedvegetableprotein"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soysaucemadefromsoy-tamari-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soysaucemadefromsoyandwheat-shoyu-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soysaucemadefromsoyandwheat-shoyu--lowsodium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soymilk-allflavors--nonfat-withaddedcalcium-vitaminsAandD"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soymilk-chocolateandotherflavors-light-withaddedcalcium-vitaminsAandD"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Soymilk-originalandvanilla-light-withaddedcalcium-vitaminsAandD"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Spinach-canned-regularpack-drainedsolids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Spinach-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Spinach-frozen-choppedorleaf-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Spinach-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-summer-allvarieties-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-summer-allvarieties-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-summer-crookneckandstraightneck-canned-drained-solid-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-summer-crookneckandstraightneck-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-summer-crookneckandstraightneck-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-summer-zucchini-includesskin-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-summer-zucchini-includesskin-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-summer-zucchini-includesskin-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-winter-allvarieties-cooked-baked-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-winter-allvarieties-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-winter-hubbard-cooked-boiled-mashed-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Squash-winter-spaghetti-cooked-boiled-drained-orbaked-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Strawberries-canned-heavysyruppack-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Strawberries-frozen-sweetened-sliced"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Strawberries-frozen-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Strawberries-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Strawberry-flavorbeveragemix-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sugars-brown"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sugars-granulated"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sugars-powdered"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweetpotatoleaves-cooked-steamed-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweetpotato-canned-vacuumpack"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweetpotato-cooked-bakedinskin-flesh-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweetpotato-cooked-boiled-withoutskin"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweetpotato-raw-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweetener-herbalextractpowderfromStevialeaf"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweetener-syrup-agave"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweeteners-tabletop-aspartame-EQUAL-packets"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweeteners-tabletop-fructose-dry-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweeteners-tabletop-saccharin-sodiumsaccharin-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Sweeteners-tabletop-sucralose-SPLENDApackets"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrup-NESTLE-chocolate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrup-fruitflavored"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-chocolate-HERSHEY'SGenuineChocolateFlavoredLiteSyrup"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-corn-dark"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-corn-high-fructose"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-corn-light"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-grenadine"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-maple"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-sorghum"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-sugarfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-tableblends-pancake"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-tableblends-pancake-reduced-calorie"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-tableblends-pancake-with2percentmaple"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Syrups-tableblends-pancake-withbutter"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tangerinejuice-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tangerines--mandarinoranges--canned-juicepack"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tangerines--mandarinoranges--canned-juicepack-drained"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tangerines--mandarinoranges--canned-lightsyruppack"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tangerines--mandarinoranges--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tapioca-pearl-dry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Taro-cooked-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Taro-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoandvegetablejuice-lowsodium"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatojuice-canned-withsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatojuice-canned-withoutsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoproducts-canned-paste-withoutsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoproducts-canned-puree-withsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoproducts-canned-puree-withoutsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoproducts-canned-sauce"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoes-green-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoes-red-ripe-canned-packedintomatojuice"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoes-red-ripe-canned-packedintomatojuice-nosaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoes-red-ripe-canned-stewed"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoes-red-ripe-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Tomatoes-red-ripe-raw-yearroundaverage"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Toppings-butterscotchorcaramel"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Toppings-marshmallowcream"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Toppings-strawberry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Turnipgreensandturnips-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Turnipgreens-canned-nosaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Turnipgreens-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Turnipgreens-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Turnips-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Turnips-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Turnips-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Vanillaextract-imitation-noalcohol"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Vegetableandfruitjuicedrink-reducedcalorie-withlow-caloriesweetener-addedvitaminC"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Vegetablejuicecocktail-canned"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Vegetablejuice-BOLTHOUSEFARMS-DAILYGREENS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Vegetables-mixed-corn-limabeans-peas-greenbeans-carrots-canned-nosaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Vegetables-mixed-canned-drainedsolids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Vegetables-mixed-frozen-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Vermicelli-madefromsoy"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Vinegar-cider"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Vinegar-distilled"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#VitaminDasingredient"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Water-bottled-generic"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Water-non-carbonated-bottles-naturalfruitflavors-sweetenedwithlowcaloriesweetener"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Water-tap-drinking"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Water-tap-municipal"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Water-withcornsyrupand/orsugarandlowcaloriesweetener-fruitflavored"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Waterchestnuts-chinese--matai--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Waterchestnuts-chinese-canned-solidsandliquids"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Watercress-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Watermelon-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Waxgourd--chinesepreservingmelon--cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Wildrice-cooked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Yam-cooked-boiled-drained-orbaked-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Yambean-jicama--raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Yeastextractspread"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://purl.obolibrary.org/obo/FOODON_03510179"/>
+		<NamedIndividual IRI="#Yellowricewithseasoning-drypacketmix-unprepared"/>
+	</ClassAssertion>

@@ -1,0 +1,1100 @@
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Babyfood-Multigrainwholegraincereal-dryfortified"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Babyfood-cereal-barley-dryfortified"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Babyfood-cereal-mixed-dryfortified"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Babyfood-cereal-mixed-withbananas-dry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Babyfood-cereal-oatmeal-dryfortified"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Babyfood-cereal-oatmeal-withbananas-dry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Babyfood-cereal-rice-withbananas-dry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Babyfood-cereal-wholewheat-withapples-dryfortified"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Babyfood-oatmealcerealwithfruit-dry-instant-toddlerfortified"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Baconbits-meatless"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Bakingchocolate-mexican-squares"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Bakingchocolate-unsweetened-squares"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Balsam-pear-bittergourd--leafytips-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Bananas-dehydrated-orbananapowder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beans-black-matureseeds-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beans-kidney-red-matureseeds-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beans-pink-matureseeds-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beans-pinto-matureseeds-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverage-instantbreakfastpowder-chocolate-notreconstituted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverage-instantbreakfastpowder-chocolate-sugar-free-notreconstituted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-ABBOTT-EASwheyproteinpowder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-Cocoamix-nosugaradded-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-Cocoamix-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-Malteddrinkmix-natural-powder-dairybased."/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-OVALTINE-chocolatemaltpowder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-Proteinpowderwheybased"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-UNILEVER-SLIMFASTShakeMix-highprotein-wheypowder-3-2-1Plan-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-UNILEVER-SLIMFASTShakeMix-powder-3-2-1Plan"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-Wheyproteinpowderisolate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-chocolatepowder-nosugaradded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-coffeeandcocoa-instant-decaffeinated-withwhitenerandlowcaloriesweetener"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-coffeesubstitute-cerealgrainbeverage-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-coffee-instant-decaffeinated-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-coffee-instant-regular-halfthecaffeine"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-coffee-instant-regular-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-nutritionalshakemix-highprotein-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-decaffeinated-lemon-diet"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-decaffeinated-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-lemon-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-unsweetened-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Breakfastbars-oats-sugar-raisins-coconut-includegranolabar-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Buckwheatflour-whole-groat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Bulgur-dry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-HERSHEYS-PAYDAYBar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-MARSSNACKFOODUS-M_and_M'sAlmondChocolateCandies"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-NESTLE-BUTTERFINGERCrisp"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-REESE'SPIECESCandy"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-chocolatecovered-lowsugarorlowcalorie"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-chocolate-dark-NFS-45-59percentcacaosolids90percent_60-69percentcacaosolids5percent_70-85percentcacaosolids5percent-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-confectioner'scoating-peanutbutter"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-milkchocolatecoatedpeanuts"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-milkchocolate-withalmonds"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-peanutbar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-semisweetchocolate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-sesamecrunch"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-sugar-coatedalmonds"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Candies-sweetchocolate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-ALPEN"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-BARBARA'SPUFFINS-original"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-FAMILIA"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-BerryBurstCHEERIOS-TripleBerry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-CHEERIOS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-FROSTEDCHEERIOS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-HONEYNUTCHEERIOS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-WHEATIES"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-WheatCHEX"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-HEALTHVALLEY-FIBER7Flakes"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHI7WholeGrainPuffs"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHIGOLEANCRUNCH!-HoneyAlmondFlax"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHIGOLEAN"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHIGOLEANCRUNCH!"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG'SFROSTEDMINI-WHEATS-BigBite"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SALL-BRANBRANBUDS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SALL-BRANCOMPLETEWheatFlakes"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SALL-BRANOriginal"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SCRACKLIN'OATBRAN"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SRAISINBRAN"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'S-RAISINBRANCRUNCH"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-MALT-O-MEAL-FrostedMiniSPOONERS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-MALT-O-MEAL-RaisinBranCereal"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-OATBRANFLAKES-HEALTHVALLEY"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POSTBranFlakes"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POSTGREATGRAINSBananaNutCrunch"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POSTGREATGRAINSCranberryAlmondCrunch"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POSTRaisinBranCereal"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POSTSELECTSMaplePecanCrunch"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-ALPHA-BITS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-GRAPE-NUTSCereal"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-GRAPE-NUTSFlakes"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-GREATGRAINSCrunchyPecanCereal"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-GREATGRAINS-Raisin-Date_and_Pecan"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-HoneyNutShreddedWheat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-ShreddedWheatn'Bran-spoon-size"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-ShreddedWheat-originalbigbiscuit"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-ShreddedWheat-originalspoon-size"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-KINGVITAMAN"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-OatmealSquares"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-QUAKER100percentNaturalGranolawithOats-Wheat-Honey-andRaisins"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-QUAKEROATLIFE-plain"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-QUAKERPuffedWheat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-ToastedMultigrainCrisps"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-RALSTONTASTEEOS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-SUNCOUNTRY-KRETSCHMERHoneyCrunchWheatGerm"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-UNCLESAMCEREAL"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-WEETABIXwholegraincereal"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-granola-homemade"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-wheatandbran-presweetenedwithnutsandfruits"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-wheatgerm-toasted-plain"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cereals-QUAKER-QUAKERMultiGrainOatmeal-dry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cereals-oats-instant-fortified-mapleandbrownsugar-dry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cereals-oats-instant-fortified-plain-dry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cereals-oats-regularandquick-notfortified-dry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cereals-wholewheathotnaturalcereal-dry"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Chard-swiss-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cheese-American-nonfatorfatfree"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#ClifZbar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cocoa-drypowder-hi-fatorbreakfast-processedwithalkali"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cocoa-drypowder-unsweetened"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cocoa-drypowder-unsweetened-processedwithalkali"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cornflour-masa-enriched-white"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Cornflour-masa-unenriched-white"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Crackers-gluten-free-multi-seededandmultigrain"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Crackers-wholegrain-sandwich-type-withpeanutbutterfilling"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Crackers-whole-wheat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Crackers-whole-wheat-lowsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Crackers-whole-wheat-reducedfat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Fish-caviar-blackandred-granular"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Fish-cod-Atlantic-driedandsalted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Formulatedbar-MARSSNACKFOODUS-SNICKERSMARATHONProteinPerformanceBar-CaramelNutRush"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Formulatedbar-POWERBAR-chocolate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Formulatedbar-SLIM-FASTOPTIMAmealbar-milkchocolatepeanut"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Formulatedbar-highfiber-chewy-oatsandchocolate"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Fruit-flavoreddrink-powder-withhighvitaminCwithotheraddedvitamins-lowcalorie"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Grapeleaves-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Lemonade-flavordrink-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Milk-buttermilk-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Milk-dry-nonfat-instant-withaddedvitaminAandvitaminD"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Milk-dry-nonfat-regular-withaddedvitaminAandvitaminD"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Milk-dry-nonfat-regular-withoutaddedvitaminAandvitaminD"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Milk-dry-whole-withaddedvitaminD"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Milk-dry-whole-withoutaddedvitaminD"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Millet-puffed"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Molasses"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Mollusks-snail-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Muffins-oatbran"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Mushrooms-shiitake-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Natto"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-almondbutter-plain-withsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-almondpaste"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-almonds"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-almonds-blanched"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-almonds-dryroasted-withoutsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-almonds-oilroasted-withsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-almonds-oilroasted-withoutsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-brazilnuts-dried-unblanched"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-cashewbutter-plain-withsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-cashewnuts-dryroasted-withoutsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-hazelnutsorfilberts"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-macadamianuts-dryroasted-withsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-pecans"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-pinenuts-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-pistachionuts-dryroasted-withoutsaltadded"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-walnuts-black-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Nuts-walnuts-english"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Oatbran-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Onions-dehydratedflakes"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Pancakes-buckwheat-drymix-incomplete"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Pancakes-wholewheat-drymix-incomplete"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Papad"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanutbutter-smoothstyle-withsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanutbutter-smoothstyle-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanutbutter-smooth-reducedfat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanutbutter-smooth-vitaminandmineralfortified"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanutflour-defatted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanutspread-reducedsugar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-cooked-boiled-withsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-dry-roasted-withsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-dry-roasted-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-oil-roasted-withsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-oil-roasted-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Peppers-hotchile-sun-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Popcorn-microwave-regular-butter-flavor-madewithpalmoil"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Potatochips-withoutsalt-reducedfat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Proteinsupplement-milkbased-MuscleMilkLight-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Proteinsupplement-milkbased-MuscleMilk-powder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Puddings-chocolateflavor-lowcalorie-instant-drymix"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Puddings-chocolateflavor-lowcalorie-regular-drymix"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#REDUCEDSODIUM_Nuts-almondbutter-plain"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Ricecake-cracker-includehainminiricecakes-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Ricecrackers"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Ricemix-cheeseflavor-drymix-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Ricemix-whiteandwild-flavored-unprepared"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Rice-brown-long-grain-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Rolls-dinner-whole-wheat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#SCHIFF-TIGER'SMILKBAR"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Sauce-fish-ready-to-serve"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seaweed-agar-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seaweed-irishmoss-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seaweed-kelp-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seaweed-spirulina-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seaweed-wakame-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seeds-flaxseed"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seeds-pumpkinandsquashseedkernels-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seeds-pumpkinandsquashseedkernels-roasted-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seeds-sesamebutter-tahini-fromroastedandtoastedkernels-mostcommontype-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seeds-sesameseedkernels-dried-decorticated-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seeds-sesameseedkernels-toasted-withoutsaltadded-decorticated-"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seeds-sesameseeds-whole-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seeds-sunflowerseedkernels-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Seeds-sunflowerseedkernels-dryroasted-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snack-BALANCE-originalbar"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-CLIFBAR-mixedflavors"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-KRAFT-CORNNUTS-plain"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-NUTRI-GRAINFRUITANDNUTBAR"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-brownricechips"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-granolabar-GENERALMILLSNATUREVALLEY-SWEET_and_SALTYNUT-peanut"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-granolabar-KASHIGOLEAN-chewy-mixedflavors"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-granolabar-KASHITLCBar-chewy-mixedflavors"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-granolabars-hard-plain"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-granolabars-soft-almond-confectionerscoating"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-peas-roasted-wasabi-flavored"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-popcorn-air-popped"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-popcorn-cakes"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-popcorn-cheese-flavor"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-popcorn-home-prepared-oil-popped-unsalted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-popcorn-microwave-lowfat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-soychipsorcrisps-salted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-tarochips"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-tortillachips-lowfat-unsalted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-tortillachips-plain-whitecorn-salted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Snacks-vegetablechips-HAINCELESTIALGROUP-TERRACHIPS"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Soyflour-defatted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Soyflour-full-fat-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Soyflour-low-fat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Soybean-curdcheese"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Soybeans-maturecooked-boiled-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Soybeans-matureseeds-roasted-salted"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-basil-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-carawayseed"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-celeryseed"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-chilipowder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-cloves-ground"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-corianderleaf-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-cuminseed"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-currypowder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-ginger-ground"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-marjoram-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-mustardseed-ground"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-nutmeg-ground"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-onionpowder"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-oregano-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-paprika"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-parsley-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-pepper-black"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-pepper-redorcayenne"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-poultryseasoning"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-pumpkinpiespice"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-sage-ground"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-thyme-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spices-turmeric-ground"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spinach-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Spinach-frozen-choppedorleaf-cooked-boiled-drained-withoutsalt"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Syrups-sorghum"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Tacoshells-baked"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Tamarinds-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Tomatoes-sun-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Tortillas-ready-to-bakeor-fry-wholewheat"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Wheatbran-crude"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Wheatflour-whole-grain"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Whey-acid-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Whey-sweet-dried"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Wildrice-raw"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Yeastextractspread"/>
+	</ClassAssertion>
+	<ClassAssertion>
+		<Class IRI="http://www.semanticweb.org/mclou/ontologies/2020/6/ohen3#highMagnesium"/>
+		<NamedIndividual IRI="#Yellowricewithseasoning-drypacketmix-unprepared"/>
+	</ClassAssertion>

@@ -1,0 +1,1585 @@
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Apples-dehydrated-lowmoisture--sulfured-uncooked"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Apples-dried-sulfured-uncooked"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">3.9</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Apricots-dried-sulfured-uncooked"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Avocados-raw-allcommercialvarieties"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">10.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Babyfood-Multigrainwholegraincereal-dryfortified"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">58.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Babyfood-cereal-barley-dryfortified"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Babyfood-cereal-brownrice-dry-instant"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Babyfood-cereal-mixed-dryfortified"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">58.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Babyfood-cereal-mixed-withbananas-dry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">3.6</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Babyfood-cereal-oatmeal-dryfortified"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Babyfood-cereal-wholewheat-withapples-dryfortified"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">58.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Babyfood-oatmealcerealwithfruit-dry-instant-toddlerfortified"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Baconbits-meatless"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.9</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bakingchocolate-unsweetened-squares"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bananas-dehydrated-orbananapowder"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">7.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Barley-pearled-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-blackturtle-matureseeds-canned"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-blackturtle-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-black-matureseeds-canned-lowsodium"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-black-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-black-matureseeds-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-kidney-alltypes-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-kidney-red-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-kidney-red-matureseeds-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">4.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-pink-matureseeds-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-pinto-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-pinto-matureseeds-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">6.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-white-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beans-yellow-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beverages-Cocoamix-nosugaradded-powder"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beverages-KELLOGG'SSPECIALK20proteinpowder"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beverages-Proteinpowdersoybased"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beverages-UNILEVER-SLIMFASTShakeMix-highprotein-wheypowder-3-2-1Plan-"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">103.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beverages-UNILEVER-SLIMFASTShakeMix-powder-3-2-1Plan"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beverages-chocolatepowder-nosugaradded"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">54.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beverages-coffeesubstitute-cerealgrainbeverage-powder"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-decaffeinated-unsweetened"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Beverages-tea-instant-unsweetened-powder"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Blueberries-dried-sweetened"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">23.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-chapatiorroti-wholewheat-commerciallyprepared-frozen"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-cornbread-drymix-enriched-includescornmuffinmix-"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-multi-grain-includeswhole-grain-"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-paratha-wholewheat-commerciallyprepared-frozen"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-pita-whole-wheat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-potato"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-pumpernickel"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-reduced-calorie-wheat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-reduced-calorie-white"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-whitewheat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bread-whole-wheat-commerciallyprepared"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Buckwheatflour-whole-groat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Bulgur-dry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cake-snackcakes-creme-filled-chocolatewithfrosting-low-fat-withaddedfiber"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cake-snackcakes-notchocolate-withicingorfilling-low-fat-withaddedfiber"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Candies-chocolate-dark-NFS-45-59percentcacaosolids90percent_60-69percentcacaosolids5percent_70-85percentcacaosolids5percent-"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Candies-coconutbar-notchocolatecovered"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Candies-milkchocolate-withalmonds"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Candies-sesamecrunch"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Carobflour"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-ALPEN"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">8.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-BARBARA'SPUFFINS-original"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">55.6</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-FAMILIA"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.6</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-25percentLessSugarCINNAMONTOASTCRUNCH"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">17.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-APPLECINNAMONCHEERIOS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-BASIC4"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-BerryBurstCHEERIOS-TripleBerry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">22.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-CHEERIOS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">21.6</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-CHEERIOS-BananaNut"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">53.6</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-CHEERIOS-Chocolate"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">55.6</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-CHEERIOS-YogurtBurst-strawberry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-CINNAMONTOASTCRUNCH"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">19.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-COCOAPUFFS-25percentReducedSugar"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-DORATHEEXPLORER"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">22.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-FIBERONEBranCereal"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-FIBERONE-CaramelDelight"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">12.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-FIBERONE-HONEYCLUSTERS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">11.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-FIBERONE-RAISINBRANCLUSTERS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">10.9</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-FROSTEDCHEERIOS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">22.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-HONEYNUTCHEERIOS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">21.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-HONEYNUTCLUSTERS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">10.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-HoneyKIX"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">27.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-KIX"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">25.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-Multi-GrainCHEERIOS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-OATMEALCRISP-CrunchyAlmond"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-OATMEALCRISP-HeartyRaisin"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-OatClusterCHEERIOSCrunch"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">22.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-RAISINNUTBRAN"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-TOTALRaisinBran"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-WHEATIES"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">22.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-WheatCHEX"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">12.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-GENERALMILLS-WholeGrainTOTAL"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">200.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-HEALTHVALLEY-FIBER7Flakes"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">4.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHI7WholeGrainPuffs"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHIGOLEANCRUNCH!-HoneyAlmondFlax"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHIGOLEAN"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHIGOLEANCRUNCH!"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHIGOODFRIENDS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHIHEARTTOHEART-HoneyToastedOat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">91.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHIHoneySunshine"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHI-HEARTTOHEART-OatFlakes_and_BlueberryClusters"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">55.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KASHI-ORGANICPROMISEAutumnWheat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG'SFROSTEDMINI-WHEATS-BigBite"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG'SSPECIALKChocolateyDelight"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">68.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG'S-ReducedSugarFrostedFlakesCereal"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG'S-SPECIALKVanillaAlmond"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">70.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SALL-BRANBRANBUDS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SALL-BRANCOMPLETEWheatFlakes"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">207.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SALL-BRANOriginal"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SAPPLEJACKS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">54.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SCORNPOPS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SCRACKLIN'OATBRAN"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">31.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SFROOTLOOPS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">52.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SLowFatGranolawithRaisins"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">4.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SLowFatGranolawithoutRaisins"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">6.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SMARSHMALLOWFROOTLOOPS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">52.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SMUESLIX"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SRAISINBRAN"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SSPECIALKBlueberry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">70.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SSPECIALKRedBerries"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">68.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'SSPECIALK-CinnamonPecan"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">70.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-KELLOGG'S-RAISINBRANCRUNCH"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-KELLOGG-SPECIALK-Fruit_and_Yogurt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">66.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-MALT-O-MEAL-FrostedMiniSPOONERS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-MALT-O-MEAL-RaisinBranCereal"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-NATURE'SPATH-OrganicFLAXPLUSflakes"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-OATBRANFLAKES-HEALTHVALLEY"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">120.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POSTBranFlakes"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POSTGREATGRAINSBananaNutCrunch"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POSTGREATGRAINSCranberryAlmondCrunch"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">25.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POSTRaisinBranCereal"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.9</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POSTSELECTSMaplePecanCrunch"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-ALPHA-BITS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">20.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-GRAPE-NUTSCereal"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-GRAPE-NUTSFlakes"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-GREATGRAINSCrunchyPecanCereal"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-GREATGRAINS-Raisin-Date_and_Pecan"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-HONEYBUNCHESOFOATSwithvanillabunches"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-HoneyNutShreddedWheat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-ShreddedWheatn'Bran-spoon-size"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-ShreddedWheat-originalbigbiscuit"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-POST-ShreddedWheat-originalspoon-size"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-OatmealSquares"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">11.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-QUAKER100percentNaturalGranolawithOats-Wheat-Honey-andRaisins"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-QUAKERCRUNCHYBRAN"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-QUAKEROATLIFE-plain"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-QUAKERPuffedWheat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-QUAKER-ToastedMultigrainCrisps"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">11.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-RALSTONTASTEEOS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">21.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-SUNCOUNTRY-KRETSCHMERHoneyCrunchWheatGerm"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">5.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-UNCLESAMCEREAL"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-WEETABIXwholegraincereal"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-granola-homemade"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-wheatandbran-presweetenedwithnutsandfruits"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cerealsready-to-eat-wheatgerm-toasted-plain"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">6.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cereals-QUAKER-QUAKERMultiGrainOatmeal-dry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cereals-oats-instant-fortified-mapleandbrownsugar-dry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cereals-oats-instant-fortified-plain-dry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cereals-oats-regularandquick-notfortified-dry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cereals-wholewheathotnaturalcereal-dry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Chickpeas-garbanzobeans-bengalgram--matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Chickpeas-garbanzobeans-bengalgram--matureseeds-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">4.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#ClifZbar"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">39.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cocoa-drypowder-hi-fatorbreakfast-processedwithalkali"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cocoa-drypowder-unsweetened"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cocoa-drypowder-unsweetened-processedwithalkali"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cookies-brownies-commerciallyprepared-reducedfat-withaddedfiber"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cookies-oatmeal-reducedfat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cookies-sugarwafer-withcremefilling-sugarfree"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cornflour-masa-enriched-white"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cornflour-masa-unenriched-white"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cowpeas-blackeyes--immatureseeds-frozen-cooked-boiled-drained-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.6</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Cowpeas-common-blackeyes-crowder-southern--matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-cheese-wholegrain"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-crispbread-rye"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-gluten-free-multi-seededandmultigrain"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-melbatoast-plain"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-saltines-wholewheat-includesmulti-grain-"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-waterbiscuits"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-wheat-regular"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-wholegrain-sandwich-type-withpeanutbutterfilling"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-whole-wheat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-whole-wheat-lowsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Crackers-whole-wheat-reducedfat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Currants-zante-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">4.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Dates-degletnoor"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Fatfreeicecream-nosugaradded-flavorsotherthanchocolate"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Figs-dried-uncooked"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#FormulatedBar-SOUTHBEACHproteinbar"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">27.9</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Formulatedbar-MARSSNACKFOODUS-SNICKERSMARATHONProteinPerformanceBar-CaramelNutRush"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">75.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Formulatedbar-highfiber-chewy-oatsandchocolate"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Grapeleaves-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">11.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Icecreamsandwich-vanilla-light-nosugaradded"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Icecream-lowfat-nosugaradded-cone-addedpeanutsandchocolatesauce"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Kumquats-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">43.9</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Leaveningagents-yeast-baker's-activedry"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Leaveningagents-yeast-baker's-compressed"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Lemonpeel-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">129.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Lentils-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Lentils-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">4.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Limabeans-large-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Milkdessertbar-frozen-madefromlowfatmilk"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.9</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Mungbeans-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Mushrooms-shiitake-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">3.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-almondbutter-plain-withsaltadded"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-almonds"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-almonds-blanched"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-almonds-dryroasted-withoutsaltadded"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-almonds-oilroasted-withsaltadded"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-almonds-oilroasted-withoutsaltadded"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-brazilnuts-dried-unblanched"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-coconutmeat-dried-desiccated--sweetened-flaked-packaged"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-coconutmeat-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">3.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-hazelnutsorfilberts"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">6.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-macadamianuts-dryroasted-withsaltadded"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-pecans"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-pistachionuts-dryroasted-withoutsaltadded"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">3.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-walnuts-black-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Nuts-walnuts-english"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Oatbran-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Onions-dehydratedflakes"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">75.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Pancakes-buckwheat-drymix-incomplete"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Pancakes-wholewheat-drymix-incomplete"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Papad"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Passion-fruit--granadilla--purple-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">30.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peaches-dried-sulfured-uncooked"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">4.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peanutflour-defatted"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peanutspread-reducedsugar"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-cooked-boiled-withsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-dry-roasted-withsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-dry-roasted-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-oil-roasted-withsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-oil-roasted-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peanuts-alltypes-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Pears-dried-sulfured-stewed-withoutaddedsugar"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">4.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Pears-dried-sulfured-uncooked"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">7.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peas-split-matureseeds-cooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Peppers-hotchile-sun-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">31.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Plums-dried-prunes--uncooked"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.6</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Popcorn-microwave-regular-butter-flavor-madewithpalmoil"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Potatochips-withoutsalt-reducedfat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">25.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Potatoes-baked-skin-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">13.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Potatoes-mashed-dehydrated-flakeswithoutmilk-dryform"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">81.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Proteinsupplement-milkbased-MuscleMilk-powder"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">30.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Puddings-chocolateflavor-lowcalorie-instant-drymix"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Puddings-chocolateflavor-lowcalorie-regular-drymix"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#REDUCEDSODIUM_Nuts-almondbutter-plain"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Raspberries-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">26.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Restaurant-Mexican-refriedbeans"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Rolls-dinner-whole-wheat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Rolls-hamburgerorhotdog-wholewheat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Ryeflour-medium"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Seaweed-agar-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Seeds-flaxseed"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.6</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Seeds-pumpkinandsquashseedkernels-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.9</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Seeds-pumpkinandsquashseedkernels-roasted-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Seeds-sesamebutter-tahini-fromroastedandtoastedkernels-mostcommontype-"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Seeds-sesameseedkernels-dried-decorticated-"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Seeds-sesameseedkernels-toasted-withoutsaltadded-decorticated-"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Seeds-sesameseeds-whole-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Seeds-sunflowerseedkernels-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Seeds-sunflowerseedkernels-dryroasted-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-CLIFBAR-mixedflavors"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">88.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-FRITOLAY-SUNCHIPS-MultigrainSnack-originalflavor"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-KRAFT-CORNNUTS-plain"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-NUTRI-GRAINFRUITANDNUTBAR"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-bananachips"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">6.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-granolabar-KASHIGOLEAN-chewy-mixedflavors"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-granolabar-KASHITLCBar-chewy-mixedflavors"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-granolabar-fruit-filled-nonfat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-granolabar-withcoconut-chocolatecoated"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-popcorn-air-popped"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-popcorn-cheese-flavor"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.5</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-popcorn-home-prepared-oil-popped-unsalted"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-popcorn-microwave-lowfat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-sweetpotatochips-unsalted"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-tarochips"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">5.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Snacks-vegetablechips-HAINCELESTIALGROUP-TERRACHIPS"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">12.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Soyflour-defatted"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Soyflour-full-fat-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Soyflour-low-fat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Soybeans-maturecooked-boiled-withoutsalt"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Soybeans-matureseeds-roasted-salted"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-basil-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-carawayseed"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">21.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-celeryseed"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">17.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-chilipowder"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-cinnamon-ground"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">3.8</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-cloves-ground"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-corianderleaf-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">566.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-cuminseed"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">7.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-currypowder"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-garlicpowder"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">1.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-ginger-ground"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-marjoram-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">51.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-mustardseed-ground"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">7.1</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-nutmeg-ground"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">3.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-onionpowder"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">23.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-oregano-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">2.3</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-paprika"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.9</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-parsley-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">125.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-pepper-black"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-pepper-redorcayenne"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">76.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-poultryseasoning"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">12.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-pumpkinpiespice"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">23.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-sage-ground"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">32.4</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-thyme-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">50.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Spices-turmeric-ground"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.7</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Tacoshells-baked"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Tomatoes-sun-dried"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">39.2</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Tortillas-ready-to-bakeor-fry-corn"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Tortillas-ready-to-bakeor-fry-wholewheat"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Vegetarianfillets"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Wasabi"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Wheatbran-crude"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Wheatflour-whole-grain"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Wildrice-raw"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
+	<DataPropertyAssertion>
+		<DataProperty IRI="#vitaminC_MG"/>
+		<NamedIndividual IRI="#Yeastextractspread"/>
+		<Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.0</Literal>
+	</DataPropertyAssertion>
